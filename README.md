@@ -1,9 +1,10 @@
-## sigmastudent
+# sigmastudent
 This is a demo for Git &amp; Github class.
 
 
-## Teacher 
+# Teacher 
 Shradha Khapra
 
-## Student
+# Student
 Sigma Student
+TechWithManishHQ
